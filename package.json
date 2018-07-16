@@ -6,5 +6,8 @@
   "repository": "https://github.com/LySofDev/dead-simple-react-generators.git",
   "author": "Esteban Hernandez <hernandez.dev.services@gmail.com>",
   "license": "true",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  }
 }
