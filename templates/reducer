@@ -1,0 +1,13 @@
+import { Action } from 'redux';
+
+export interface TemplateState {
+
+}
+
+const initialState: TemplateState = {
+
+};
+
+export const templateReducer = (state: TemplateState, action: Action) => {
+  return state;
+}
