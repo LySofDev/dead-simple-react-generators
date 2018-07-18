@@ -7,7 +7,10 @@
   "author": "Esteban Hernandez <hernandez.dev.services@gmail.com>",
   "license": "true",
   "private": false,
-  "dependencies": {
+  "bin": {
+		"rg": "./index.js"
+	},
+	"dependencies": {
     "inquirer": "^6.0.0",
     "voca": "^1.4.0"
   },
