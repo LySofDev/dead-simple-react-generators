@@ -11,7 +11,7 @@ interface TemplateState {
   defaultBackground: string;
 }
 
-export default class TemplateComponent extends React.Component<TemplateProps, TemplateState> {
+export class TemplateComponent extends React.Component<TemplateProps, TemplateState> {
   state = {
     defaultColor: 'white',
     defaultBackground: 'black'
