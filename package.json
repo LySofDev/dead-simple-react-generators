@@ -1,6 +1,6 @@
 {
   "name": "dead-simple-react-generators",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "An Angular/CLI inspired, code generator for Typed React and Typed Redux.",
   "main": "index.js",
   "repository": "https://github.com/LySofDev/dead-simple-react-generators.git",
